@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Products from './Products';
+import {Products} from './Products';
 import logo2 from "./assets/logo2.png"
 
 class App extends Component {
